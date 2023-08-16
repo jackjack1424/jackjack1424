@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working with Code clause<br>I'm looking for a job as Data Analyst<br>I'm learning Hadoop and Kubernetes<br>Ask me about Exploratory Data Analysis<br>Debugging: being the detective in a crime movie where you're also the murderer.<br>
+I am currently working with Code clause<br>I'm looking forward to working as a Data Analyst<br>I'm learning Hadoop and Kubernetes<br>Ask me about Exploratory Data Analysis<br>Debugging: being the detective in a crime movie where you're also the murderer.<br>
 
 
 ## 🌐 Socials:
